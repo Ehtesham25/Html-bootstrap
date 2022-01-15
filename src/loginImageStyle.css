@@ -1,0 +1,8 @@
+.login_image {
+    width: 55vw;
+    height: 100vh;
+    object-fit: cover;
+    position: absolute;
+    left: 0;
+    top: 0;
+  }

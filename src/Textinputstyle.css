@@ -1,0 +1,14 @@
+.input_style {
+  border: "none";
+  padding-left: 6;
+  outline: "none";
+  height: "9vh";
+  width: "21vw";
+}
+.line_style {
+  height: 22;
+  width: 0.1;
+  background-color: "grey";
+  margin-top: 19;
+  margin-left: 9;
+}
